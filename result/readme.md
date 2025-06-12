@@ -1,7 +1,7 @@
 # Result
 
 ## На "трійку"
-![https://github.com/ppc-ntu-khpi/jexer-35-1kalina/tree/master/result/for3.png](result 1)
+![for 3](https://github.com/ppc-ntu-khpi/jexer-35-1kalina/blob/master/result/for3.png)
 
 ## На "п'ять"
-![https://github.com/ppc-ntu-khpi/jexer-35-1kalina/tree/master/result/for5.png](result 1)
+![for 5](https://github.com/ppc-ntu-khpi/jexer-35-1kalina/blob/master/result/for5.png)
